@@ -1,0 +1,5 @@
+neftali|estrada|123|2|88/88/88|casa|case|casi|cass|2|true|d71HCQ4eRcGeuJGM
+manuel|orellana|9090|2|44/44/44|lala|lele|lolo|lili|2|true|OnAycFBlGSbLlHa4
+Emely|Garcia|9999|1|12/23/44|casa|pachalum|gasr|guatemala|3|true|D5Vyd7s8XLJ37wdX
+manuel|garcia|123|2|12/2/03|casa|papeñ|baño|casa|3|true|VHlBTtJNeQGZrUsm
+mardo|tobar|8080|2|d|pacha|san mar|las|guate|3|true|8I1fGAzQCNED8hy2
